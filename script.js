@@ -49,7 +49,7 @@ function generatePassword() {
       }
 
   console.log(possibleCharacters)
-  //Conditional statements to combine the arrays that they user wants in the password
+  //Conditional statements to combine the arrays that the user wants in the password
 
   // a for loop to loop the length amount that user wants and push the characters into the result array
   for(var i = 0; i < length; i++) {
